@@ -6,5 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/api/student")
 public class StudentController {
+	// test sathish
 
 }
